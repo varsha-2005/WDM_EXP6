@@ -18,7 +18,8 @@ sklearn to demonstrate Information Retrieval using the Vector Space Model.
 ```
 Developed By: Varsha G
 Reg No: 212222230166
-
+```
+```
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
